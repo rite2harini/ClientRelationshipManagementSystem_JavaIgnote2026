@@ -145,7 +145,7 @@ The following files will be completed after future topics are taught:
 
 ## What Should Run Now?
 
-Students should be able to run:
+You should be able to run:
 
 Main.java
 
