@@ -60,7 +60,7 @@ Important:
 
 The project execution starts from Main.java.
 
-Students must implement:
+You must implement:
 
 public static void main(String[] args)
 
