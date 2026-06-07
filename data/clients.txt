@@ -1,1 +1,7 @@
+Used for file handling.
 
+Store client details here.
+
+Students should implement:
+- Save clients
+- Load clients
