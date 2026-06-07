@@ -56,6 +56,20 @@ Use:
 
 ### 4. Main.java
 
+Important:
+
+The project execution starts from Main.java.
+
+Students must implement:
+
+public static void main(String[] args)
+
+inside Main.java.
+
+Run Main.java to test the application.
+
+All client operations should be invoked through the menu present in Main.java.
+
 Implement:
 
 * Menu Driven Program
