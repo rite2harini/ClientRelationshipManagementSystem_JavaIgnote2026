@@ -78,11 +78,17 @@ What you should be working after completion ?
 When you run Main.java, you should be able to:
 
 *Add a client
+
 *View all clients
+
 *Search a client by ID
+
 *Update client details
+
 *Delete a client
+
 *Handle invalid operations through custom exceptions
+
 *Exit the application
 
 
