@@ -1,27 +1,33 @@
 package model;
 /*
-PROBLEM REQUIREMENT:
+This class manages all client operations.
 
-Create a Client class to store client information.
+Requirements:
 
-Attributes:
+1. Store client objects in an array.
+2. Maintain a count of clients.
 
-clientId
-clientName
-email
-phone
-city
+Implement the following methods:
 
-Tasks:
+- addClient()
+  Add a new client into the system.
 
-Create private instance variables.
-Create a parameterized constructor.
-Create getters and setters.
-Override toString() to display client details.
+- viewClients()
+  Display all clients currently stored.
 
-HINT:
-A client object should represent one customer of the company.
+- searchClient(int clientId)
+  Search and display a client using client ID.
+
+- updateClient(int clientId)
+  Update email, phone number, or city.
+
+- deleteClient(int clientId)
+  Remove a client from the system.
+
+Handle appropriate exceptions wherever required.
 */
+
+
 public class Client {
 
 }
